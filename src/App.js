@@ -3,7 +3,7 @@ import {
   View, Text, TextInput, TouchableOpacity, ScrollView,
   StyleSheet, KeyboardAvoidingView, Platform, Modal,
 } from 'react-native';
-import { handleInput, clearInput } from './order';
+import { handleInput, clearInput } from './Order';
 
 const ORDERS_FOR_FREE = 10;
 
